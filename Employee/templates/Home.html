@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>employee</title>
+    <link rel="stylesheet" href="{%static 'css/test.css'%}">
+</head>
+<body>
+<div class="rightbox">
+    In right box. data is :<br> <br>
+    {% if emp %}
+
+    <table>
+        <tr>
+            <th>ENO</th>
+            <th>ENAME</th>
+            <th>ESAL</th>
+            <th>EMAIL</th>
+        </tr>
+        {% for item in emp %}
+        <tr>
+            <td>{{ item.eno}}</td>
+            <td>{{ item.ename }}</td>
+            <td>{{ item.esal }}</td>
+            <td>{{ item.eemail }}</td>
+        </tr>
+
+
+        {% endfor %}
+    </table>
+    {% else %}
+    <p>somethings is wrong</p>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

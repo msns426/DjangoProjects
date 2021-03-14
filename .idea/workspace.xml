@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a21dd974-3846-4403-af23-843ee6984299" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DjangoProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/decorator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/first_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/f1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/fr/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/fr/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/fr/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/fr/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/fr/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fr/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/myapp/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/pro1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/pro1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/pro1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/pro1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pro1/pro1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/restapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/restapi/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/restapi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/restapi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi/restapi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/api/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/restapi1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/restapi1/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/restapi1/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/restapi1/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/restapi1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/restapi1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/s1/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/sample/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/sample/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/sample/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample/sample/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/second.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/third.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapi/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapi/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapi/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapi/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/serializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapi/webapp/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1pk2glWfoik6dbxV6DGoznhFsvq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ex" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DjangoProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a21dd974-3846-4403-af23-843ee6984299" name="Default Changelist" comment="" />
+      <created>1615712883206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615712883206</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
